@@ -1,0 +1,11 @@
+.center{
+    width: 98vw;
+	float: none;
+	margin: 0 auto;
+}
+
+.floating{
+	position: relative;
+	float: left;
+
+}
